@@ -5,8 +5,8 @@ import java.sql.*;
 
 public class AccountMgtOpDAO implements AccountDAO {
     public static final String URL = "jdbc:mysql://localhost:3306/bank";
-    public static final String USER = "root";
-    public static final String PASS = "Re:zero2020$";
+    public static final String USER = "Username";
+    public static final String PASS = "Password";
 
 
     //Creating the connection
